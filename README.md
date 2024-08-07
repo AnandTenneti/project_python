@@ -1,5 +1,5 @@
 # List of Python programs
-<table>
+<table border=0>
 <tr>
 <td>
 1.<a href="https://github.com/AnandTenneti/project_python/blob/main/bmi_caluclation.py"> Calucalte BMI</a></td></tr>
