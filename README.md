@@ -4,3 +4,5 @@
 2.<a href="https://github.com/AnandTenneti/project_python/blob/main/bitwise_operators_assignment.py"> Bitwise operators functionality</a><br>
 3.<a href="https://github.com/AnandTenneti/project_python/blob/main/sum_of_even.py"> Sum of Even numbers in a given range</a><br>
 4.<a href="https://github.com/AnandTenneti/project_python/blob/main/age_caluclation.py"> Caluclate age in number of months, weeks and days</a><br>
+5.<a href="https://github.com/AnandTenneti/project_python/blob/main/coin_spin.py">Coin spin</a><br>
+
